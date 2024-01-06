@@ -17,3 +17,11 @@ A list index refers to the location of an element in a list.
 Remember the indexing begins from 0 in Python.
 
 The first element is assigned an index 0, the second element is assigned an index of 1 and so on and so forth.
+
+
+List Slicing
+We can use a : to perform slicing which grabs everything up to a designated point.
+
+The starting index is specified on the left of the : and the ending index is specified on the right of the :.
+
+Remember the element located at the right index is not included.
