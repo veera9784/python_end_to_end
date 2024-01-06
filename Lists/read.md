@@ -25,3 +25,7 @@ We can use a : to perform slicing which grabs everything up to a designated poin
 The starting index is specified on the left of the : and the ending index is specified on the right of the :.
 
 Remember the element located at the right index is not included.
+
+
+
+and also lists contains its own functions and methods which supports lists
