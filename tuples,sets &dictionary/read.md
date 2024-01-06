@@ -17,3 +17,21 @@ A tuple index refers to the location of an element in a tuple.
 Remember the indexing begins from 0 in Python.
 
 The first element is assigned an index 0, the second element is assigned an index of 1 and so on and so forth.
+
+
+Tuple Slicing
+We can use a : to perform slicing which grabs everything up to a designated point.
+
+The starting index is specified on the left of the : and the ending index is specified on the right of the :.
+
+Remember the element located at the right index is not included.
+
+
+
+
+When to use Tuples
+You may be wondering, "Why bother using tuples when they have fewer available methods?" To be honest, tuples are not used as often as lists in programming, but are used when immutability is necessary. If in your program you are passing around an object and need to make sure it does not get changed, then a tuple becomes your solution. It provides a convenient source of data integrity.
+
+You will find them often in functions when you are returning some values
+
+You should now be able to create and use tuples in your programming as well as have an understanding of their immutability.
