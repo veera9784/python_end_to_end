@@ -12,6 +12,12 @@
 
 4.easy to code
 
+
+
+
+![image](https://github.com/veera9784/python_end_to_end/assets/118377278/eb278b49-3686-4e2c-a9f9-5e2f80d17203)
+
+
 so here in this repository every thing you can see from the python begining to the ending
 
 toipcs coverd are
