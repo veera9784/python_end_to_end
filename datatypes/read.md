@@ -14,3 +14,10 @@ Numeric - Numeric variables take values which are numbers like 9, 3.14, 0, Inf
 String - String variables are used to store textual information
 
 Boolean - Boolean variables have two modes either True or False. A definite judge of statements!
+
+
+##variables
+
+#variable is a container which stores the data
+
+#it stores the information like numeric and it can be textual
