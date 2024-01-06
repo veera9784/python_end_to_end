@@ -28,3 +28,14 @@
 
 #else:
  #pewrforming action
+
+
+
+
+
+ #nested if
+#nested if means if inside if condition
+
+#if first condition which we have written if that is true means the below if condition will executes
+#if not that goe3s to the else part
+
