@@ -32,3 +32,22 @@ Boolean - Boolean variables have two modes either True or False. A definite judg
 #valid variable_name are pYthon,harsha_python,num1
 
 #names are case sensitive
+
+
+
+# variables should not contain any of these
+#special charcters like :<>,'"@#$%^&*()()"
+     
+
+#and also we have to avoid the built in keywords
+#like print,type
+
+     
+
+#boolean variables
+
+
+#boolean variables only takes only true or false
+
+
+#it is used for comparisions
