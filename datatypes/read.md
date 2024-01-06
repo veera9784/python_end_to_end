@@ -35,7 +35,7 @@ Boolean - Boolean variables have two modes either True or False. A definite judg
 
 
 
-# variables should not contain any of these
+ variables should not contain any of these
 #special charcters like :<>,'"@#$%^&*()()"
      
 
@@ -45,6 +45,22 @@ Boolean - Boolean variables have two modes either True or False. A definite judg
      
 
 #boolean variables
+
+
+
+
+
+
+
+
+#operators
+
+#  == is for comparing ex:(a==b)
+
+#  != is also for comparision only (a!=b)
+
+# a>b , a=b, a<=b
+
 
 
 #boolean variables only takes only true or false
