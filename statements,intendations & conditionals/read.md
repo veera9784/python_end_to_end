@@ -15,3 +15,16 @@
      
 
 #multi line statements
+
+
+#conditional statements
+#if statements are like for if condition is true certain thing wil execute
+#if condition is false that going to check for the alternative one
+
+#if case1
+ #performing action
+# elif (case 2)_
+#performing action
+
+#else:
+ #pewrforming action
