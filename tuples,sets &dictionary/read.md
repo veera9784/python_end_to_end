@@ -35,3 +35,15 @@ You may be wondering, "Why bother using tuples when they have fewer available me
 You will find them often in functions when you are returning some values
 
 You should now be able to create and use tuples in your programming as well as have an understanding of their immutability.
+
+
+
+
+Sets
+Sets are an unordered collection of unique elements. We can construct them by using the set() function.
+
+Sets cannot have duplicates.
+
+Sets are mutable just like lists.
+
+You can create a non-empty set with curly braces by specifying elements separated by a comma.
