@@ -21,3 +21,14 @@ Boolean - Boolean variables have two modes either True or False. A definite judg
 #variable is a container which stores the data
 
 #it stores the information like numeric and it can be textual
+
+#$rules for naming python
+
+
+#variable must starts with letter or an underscore like _harsha or harsha
+
+#variable name must contain numbers,letters or underscores
+
+#valid variable_name are pYthon,harsha_python,num1
+
+#names are case sensitive
