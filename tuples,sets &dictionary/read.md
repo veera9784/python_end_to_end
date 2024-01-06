@@ -47,3 +47,21 @@ Sets cannot have duplicates.
 Sets are mutable just like lists.
 
 You can create a non-empty set with curly braces by specifying elements separated by a comma.
+
+
+
+
+
+Dictionaries
+We've been learning about sequences in Python but now we're going to switch gears and learn about mappings in Python.
+
+If you're familiar with other languages you can think of these Dictionaries as hash tables.
+
+So what are mappings? Mappings are a collection of objects that are stored by a key, unlike a sequence that stored objects by their relative position. This is an important distinction, since mappings won't retain order since they have objects defined by a key.
+
+A Python dictionary consists of a key and then an associated value. That value can be almost any Python object. So a dictionary object always has elements as key-value pairs
+
+
+
+
+
