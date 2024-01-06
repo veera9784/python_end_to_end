@@ -23,7 +23,7 @@
 
 #if case1
  #performing action
-# elif (case 2)_
+   elif (case 2)_
 #performing action
 
 #else:
