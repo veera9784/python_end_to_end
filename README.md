@@ -23,14 +23,24 @@ so here in this repository every thing you can see from the python begining to t
 toipcs coverd are
 
 datatypes
+
 variables
+
 strings
+
 lists
+
 tuples
 sets
 dictionary
+
+
 statements conditionals and intendation
+
+
 loops and iterations
+
+
 python functions
 list compherensions
 
