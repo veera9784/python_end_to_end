@@ -4,3 +4,14 @@
 #we have seen the assignment statements so far
 
 #an expression is a combination of values ,variables operators and calls to functions
+
+
+# remember that expression can be a part of statement
+#assignment statement is y=x+3,
+
+#here expression is x+3
+
+#and the entire line is a statement that assigns the result to the variable y
+     
+
+#multi line statements
