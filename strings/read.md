@@ -26,3 +26,10 @@ We can use a : to perform slicing which grabs everything up to a designated poin
 The starting index is specified on the left of the : and the ending index is specified on the right of the :.
 
 Remember the element located at the right index is not included.
+
+
+
+String Properties
+It's important to note that strings have an important property known as immutability.
+
+This means that once a string is created, the elements within it can not be changed or replaced via item assignment. We will see how we can do such operation using string methods
