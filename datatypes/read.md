@@ -16,7 +16,7 @@ String - String variables are used to store textual information
 Boolean - Boolean variables have two modes either True or False. A definite judge of statements!
 
 
-##variables
+#variables
 
 #variable is a container which stores the data
 
@@ -55,11 +55,11 @@ Boolean - Boolean variables have two modes either True or False. A definite judg
 
 #operators
 
-#  == is for comparing ex:(a==b)
+   == is for comparing ex:(a==b)
 
-#  != is also for comparision only (a!=b)
+  != is also for comparision only (a!=b)
 
-# a>b , a=b, a<=b
+ a>b , a=b, a<=b
 
 
 
